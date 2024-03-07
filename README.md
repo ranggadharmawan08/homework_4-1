@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # homework_4_1
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# homework_4-1
+>>>>>>> ac883904b55ca8d9ae8dc65ca396a4059b16ef89
